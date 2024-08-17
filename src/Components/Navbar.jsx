@@ -31,8 +31,8 @@ const Navbar = () => {
              {links}
             </ul>
           </div>
-          <img className="w-[10%] h-[10%]" src="" alt="" />
-         <p className="text-2xl font-sans font-semibold">ProductPulse</p>
+          <img className="w-[10%] h-[10%]" src="https://static.vecteezy.com/system/resources/previews/027/375/023/original/shopping-cart-flat-icon-in-circle-png.png" alt="" />
+         <p className="text-2xl font-sans font-semibold ml-1">ProductPulse</p>
         </div>
         <div className="navbar-center hidden lg:flex">
           <ul className="menu menu-horizontal px-1">

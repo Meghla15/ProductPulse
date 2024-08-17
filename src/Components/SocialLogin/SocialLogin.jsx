@@ -22,7 +22,7 @@ const SocialLogin = () => {
             .catch(error =>{
                 console.log(error)
                 toast.error(error?.massage)
-            })
+            })                                                          
     }
     return (
         <div>
