@@ -134,7 +134,7 @@
         "brand_name": "CrispMaster",
         "category_name": "Kitchen Appliances",
         "price": 129.99,
-        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fevaly.com.bd%2Fproducts%2Fsilver-crest-extra-large-digital-led-touch-screen-air-fryer-6-liter-black-410333&psig=AOvVaw2iAMKX4PviUScIRFdP-yVC&ust=1723953909532000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjP-5_B_IcDFQAAAAAdAAAAABAE",
+        "image": "https://media.e-valy.com/cms/products/images/6dbeaa15-d066-4f40-b9d0-3e07b743af67",
         "date": "2024-08-14T16:30:00",
         "description": "Enjoy healthy fried food with this digital air fryer featuring multiple cooking presets.",
         "ratings": 4.6
@@ -144,7 +144,7 @@
         "brand_name": "GameStation",
         "category_name": "Gaming",
         "price": 499.99,
-        "image": "https://example.com/images/gaming_console_pro.jpg",
+        "image": "https://static-01.daraz.com.bd/p/ebebcaf9051896d80f24c7154973ee61.png",
         "date": "2024-08-15T13:45:00",
         "description": "Next-gen gaming console with 4K support, high-speed SSD, and a vast library of games.",
         "ratings": 4.9
@@ -154,7 +154,7 @@
         "brand_name": "EcoTemp",
         "category_name": "Smart Home",
         "price": 199.99,
-        "image": "https://example.com/images/smart_thermostat.jpg",
+        "image": "https://www.homeiq.ae/wp-content/uploads/2018/05/Honeywell-RTH9585WF1006-Smart-Thermostat-Color-Programmable-WIFI-Gray.jpg",
         "date": "2024-08-16T12:20:00",
         "description": "Control your home's temperature remotely with this energy-efficient smart thermostat.",
         "ratings": 4.4
@@ -164,7 +164,7 @@
         "brand_name": "BrewMaster",
         "category_name": "Kitchen Appliances",
         "price": 299.99,
-        "image": "https://example.com/images/home_espresso_machine.jpg",
+        "image": "https://pyxis.nymag.com/v1/imgs/b88/799/77eaf498d929e7038c33ac14435c9eca4c-espresso-machine-128-comp-final.1x.rsquare.w1400.jpg",
         "date": "2024-08-17T09:50:00",
         "description": "Brew café-quality espresso at home with this powerful and easy-to-use espresso machine.",
         "ratings": 4.7
@@ -174,7 +174,7 @@
         "brand_name": "SecureHome",
         "category_name": "Home Security",
         "price": 149.99,
-        "image": "https://example.com/images/smart_door_lock.jpg",
+        "image": "https://smartlife.com.bd/wp-content/uploads/2021/11/smartlife-m1-smart-door-lock-2024-3.jpg",
         "date": "2024-08-18T14:10:00",
         "description": "Enhance your home security with this smart door lock featuring keyless entry and remote access.",
         "ratings": 4.5
@@ -184,7 +184,7 @@
         "brand_name": "QuickBoil",
         "category_name": "Kitchen Appliances",
         "price": 49.99,
-        "image": "https://example.com/images/electric_kettle.jpg",
+        "image": "https://www.bdshop.com/pub/media/catalog/product/cache/eaf695a7c2edd83636a0242f7ce59484/p/r/prestige-pt-18ek-electric-kettle.jpg",
         "date": "2024-08-19T10:00:00",
         "description": "Boil water quickly and efficiently with this stainless steel electric kettle.",
         "ratings": 4.3
@@ -204,7 +204,7 @@
         "brand_name": "KeyEase",
         "category_name": "Accessories",
         "price": 39.99,
-        "image": "https://example.com/images/portable_bluetooth_keyboard.jpg",
+        "image": "https://www.nexus.com.bd/images/detailed/7/Nexus_B033_Foldable_Bluetooth_Keyboard_with_Touchpad.jpg",
         "date": "2024-08-21T13:00:00",
         "description": "Type comfortably on the go with this portable Bluetooth keyboard, compatible with multiple devices.",
         "ratings": 4.2
@@ -214,7 +214,7 @@
         "brand_name": "StabilizePro",
         "category_name": "Photography",
         "price": 99.99,
-        "image": "https://example.com/images/smartphone_gimbal.jpg",
+        "image": "https://dvf83rt16ac4w.cloudfront.net/upload/product/20221003_1664773373_158393.jpeg",
         "date": "2024-08-22T12:15:00",
         "description": "Capture smooth and professional-looking videos with this 3-axis smartphone gimbal.",
         "ratings": 4.5
@@ -224,7 +224,7 @@
         "brand_name": "CleanBot",
         "category_name": "Home Appliances",
         "price": 249.99,
-        "image": "https://example.com/images/robot_vacuum_cleaner.jpg",
+        "image": "https://media.wired.com/photos/641d0fc298e1501546f52c83/1:1/w_1430,h_1430,c_limit/How-to-Get-the-Most-Out-of-(or-Into)-Your-Robot-Vacuum-Gear-GettyImages-1314495818.jpg",
         "date": "2024-08-23T09:40:00",
         "description": "Keep your floors spotless with this intelligent robot vacuum cleaner featuring app control.",
         "ratings": 4.7
@@ -234,7 +234,7 @@
         "brand_name": "ClickPro",
         "category_name": "Accessories",
         "price": 29.99,
-        "image": "https://example.com/images/wireless_mouse.jpg",
+        "image": "https://i.ebayimg.com/images/g/jRkAAOSwYpJjPCxn/s-l1200.webp",
         "date": "2024-08-24T11:20:00",
         "description": "Navigate your computer with ease using this ergonomic wireless mouse with adjustable DPI.",
         "ratings": 4.3
@@ -244,7 +244,7 @@
         "brand_name": "BrightView",
         "category_name": "Home Entertainment",
         "price": 199.99,
-        "image": "https://example.com/images/portable_projector.jpg",
+        "image": "https://www.startech.com.bd/image/cache/catalog/projector/xiaomi/wanbo-t4/wanbo-t4-01-500x500.jpg",
         "date": "2024-08-25T14:50:00",
         "description": "Enjoy big-screen entertainment anywhere with this compact and portable projector.",
         "ratings": 4.5
@@ -254,7 +254,7 @@
         "brand_name": "PureAir",
         "category_name": "Home Appliances",
         "price": 179.99,
-        "image": "https://example.com/images/home_air_purifier.jpg",
+        "image": "https://images-cdn.ubuy.co.in/633ad257098ec330ac1a41a4-pur.jpg",
         "date": "2024-08-26T13:30:00",
         "description": "Breathe cleaner air with this advanced home air purifier featuring HEPA filtration.",
         "ratings": 4.6
@@ -264,7 +264,7 @@
         "brand_name": "LumiBright",
         "category_name": "Smart Home",
         "price": 49.99,
-        "image": "https://example.com/images/smart_light_bulbs.jpg",
+        "image": "https://blaupunkt.com/wp-content/uploads/2021/11/Image1.png",
         "date": "2024-08-27T12:10:00",
         "description": "Control your lighting with these smart light bulbs that can be adjusted remotely.",
         "ratings": 4.4
@@ -274,7 +274,7 @@
         "brand_name": "GrillMaster",
         "category_name": "Kitchen Appliances",
         "price": 99.99,
-        "image": "https://example.com/images/electric_grill.jpg",
+        "image": "https://m.media-amazon.com/images/I/71BZWOElRbL._AC_SL1500_.jpg",
         "date": "2024-08-28T09:55:00",
         "description": "Enjoy outdoor-style grilling indoors with this smokeless electric grill.",
         "ratings": 4.3
@@ -284,7 +284,7 @@
         "brand_name": "ChargeBase",
         "category_name": "Accessories",
         "price": 49.99,
-        "image": "https://example.com/images/wireless_charging_stand.jpg",
+        "image": "https://dvf83rt16ac4w.cloudfront.net/upload/product/20200729_1596019954_819867.jpeg",
         "date": "2024-08-29T11:45:00",
         "description": "Charge multiple devices at once with this versatile wireless charging stand.",
         "ratings": 4.4
@@ -294,7 +294,7 @@
         "brand_name": "ReflectTech",
         "category_name": "Smart Home",
         "price": 249.99,
-        "image": "https://example.com/images/smart_mirror.jpg",
+        "image": "https://cdninterior.s3.ca-central-1.amazonaws.com/wp-content/uploads/2020/11/12-1080.jpg",
         "date": "2024-08-30T15:35:00",
         "description": "Upgrade your bathroom with this smart mirror featuring a built-in display for weather, news, and more.",
         "ratings": 4.6
@@ -304,7 +304,7 @@
         "brand_name": "DataSafe",
         "category_name": "Computers",
         "price": 89.99,
-        "image": "https://example.com/images/portable_hard_drive.jpg",
+        "image": "https://cdn11.bigcommerce.com/s-lu46ankz7o/images/stencil/1280x1280/products/5328/23978/4745b3bb-fcab-42d4-94da-8137a76b251e__67346.1692710533.jpg?c=2&imbypass=on",
         "date": "2024-08-31T10:10:00",
         "description": "Store all your important files with this high-capacity portable hard drive.",
         "ratings": 4.3
@@ -314,7 +314,7 @@
         "brand_name": "PowerTool",
         "category_name": "Tools",
         "price": 59.99,
-        "image": "https://example.com/images/cordless_drill.jpg",
+        "image": "https://images.othoba.com/images/thumbs/0535586_cordless-drill-machine-cd144v.jpeg",
         "date": "2024-09-01T14:15:00",
         "description": "Handle any DIY project with ease using this powerful and versatile cordless drill.",
         "ratings": 4.5
@@ -324,7 +324,7 @@
         "brand_name": "EcoRide",
         "category_name": "Transportation",
         "price": 1099.99,
-        "image": "https://example.com/images/electric_bike.jpg",
+        "image": "https://i5.walmartimages.com/seo/Hiboy-BK1-Electric-Bike-Kids-Ages-3-5-Years-Old-24V-100W-Balance-12-inch-Inflatable-Tire-Adjustable-Seat-Motorcycle-Boys-amp-Girls_1b647158-2761-4c81-a7db-ad8fb222be32.50131ce6ea21de0a56c311d27c5a07bf.jpeg",
         "date": "2024-09-02T12:30:00",
         "description": "Commute in style with this electric bike featuring a powerful motor and long-lasting battery.",
         "ratings": 4.8
@@ -334,7 +334,7 @@
         "brand_name": "Memories",
         "category_name": "Home Decor",
         "price": 79.99,
-        "image": "https://example.com/images/digital_photo_frame.jpg",
+        "image": "https://m.media-amazon.com/images/I/819K9iyysVL._AC_UF1000,1000_QL80_.jpg",
         "date": "2024-09-03T09:20:00",
         "description": "Display your favorite memories with this high-resolution digital photo frame.",
         "ratings": 4.2
@@ -344,7 +344,7 @@
         "brand_name": "PowerSmart",
         "category_name": "Smart Home",
         "price": 24.99,
-        "image": "https://example.com/images/smart_plug.jpg",
+        "image": "https://m.media-amazon.com/images/I/412dVrtJrbS._SL1500_.jpg",
         "date": "2024-09-04T11:00:00",
         "description": "Control your appliances remotely with this easy-to-use smart plug.",
         "ratings": 4.4
@@ -354,7 +354,7 @@
         "brand_name": "NetSpeed",
         "category_name": "Networking",
         "price": 129.99,
-        "image": "https://example.com/images/wireless_router.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOxUDrhcGoWIQs-DwVGHpEVU_z5Iz7KXj31Q&s",
         "date": "2024-09-05T10:45:00",
         "description": "Boost your internet speed and coverage with this high-performance wireless router.",
         "ratings": 4.5
@@ -364,7 +364,7 @@
         "brand_name": "BrightGuard",
         "category_name": "Home Security",
         "price": 69.99,
-        "image": "https://example.com/images/outdoor_security_light.jpg",
+        "image": "https://m.media-amazon.com/images/I/61YY2htTFNL._AC_SL1500_.jpg",
         "date": "2024-09-06T13:25:00",
         "description": "Illuminate your property with this motion-activated outdoor security light.",
         "ratings": 4.6
@@ -374,7 +374,7 @@
         "brand_name": "CoolBreeze",
         "category_name": "Home Appliances",
         "price": 349.99,
-        "image": "https://example.com/images/portable_air_conditioner.jpg",
+        "image": "https://mke.com.bd/media/catalog/product/i/m/image_1__11.jpg?store=default&image-type=image",
         "date": "2024-09-07T09:55:00",
         "description": "Stay cool in any room with this powerful and portable air conditioner.",
         "ratings": 4.3
