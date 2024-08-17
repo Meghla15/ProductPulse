@@ -1,10 +1,12 @@
+import Banner from "../Components/Banner";
+import PopularItem from "../Components/PopularItem/PopularItem";
 
 
 const Home = () => {
     return (
-        <div>
-           
-            <h1>This is Home page</h1>
+        <div className="bg-slate-200">
+          <Banner></Banner>
+          <PopularItem></PopularItem>
         </div>
     );
 };

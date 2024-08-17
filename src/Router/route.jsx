@@ -5,6 +5,7 @@ import About from "../Pages/About";
 import Home from "../Pages/Home";
 import Login from "../Pages/Login";
 import Register from "../Pages/Register";
+import AllProducts from "../Pages/AllProducts";
 
 
 const route = createBrowserRouter([
@@ -17,6 +18,10 @@ const route = createBrowserRouter([
                 path: '/',
                 element: <Home></Home>
                 // loader:() =>fetch (`${import.meta.env.VITE_API_URL}/foods`)
+            },
+            {
+                path: '/all-products',
+                element: <AllProducts></AllProducts>
             },
             {
                 path: '/about',

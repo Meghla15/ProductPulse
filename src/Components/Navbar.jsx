@@ -11,6 +11,9 @@ const Navbar = () => {
             <NavLink to="/">Home</NavLink>
           </li>
         <li className="font-semibold">
+            <NavLink to="/all-products">All Products</NavLink>
+          </li>
+        <li className="font-semibold">
             <NavLink to="/contact">Contact</NavLink>
           </li>
         <li className="font-semibold">
@@ -20,7 +23,7 @@ const Navbar = () => {
         </>
     )
     return (
-        <div className="navbar bg-gray-200 px-4">
+        <div className="navbar bg-indigo-900 px-4">
 
         <div className="navbar-start">
           <div className="dropdown">
@@ -32,14 +35,22 @@ const Navbar = () => {
             </ul>
           </div>
           <img className="w-[10%] h-[10%]" src="https://static.vecteezy.com/system/resources/previews/027/375/023/original/shopping-cart-flat-icon-in-circle-png.png" alt="" />
-         <p className="text-2xl font-sans font-semibold ml-1">ProductPulse</p>
+         <p className="text-2xl font-sans font-bold text-white ml-1">ProductPulse</p>
         </div>
         <div className="navbar-center hidden lg:flex">
           <ul className="menu menu-horizontal px-1">
               {links}
           </ul>
         </div>
+      
+        
+        
         <div className="navbar-end space-x-2">
+        <div className="flex-none gap-2">
+    <div className="form-control">
+      <input type="text" placeholder="Search" className="input input-bordered w-24 md:w-auto" />
+    </div>
+        </div>
         {
           user?(<div className="dropdown dropdown-end">
           <div tabIndex={0} role="button" className="btn btn-ghost btn-circle avatar">

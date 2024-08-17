@@ -1,0 +1,382 @@
+[
+    {
+        "product_name": "Wireless Earbuds",
+        "brand_name": "SoundPlus",
+        "category_name": "Electronics",
+        "price": 59.99,
+        "image": "https://www.shopz.com.bd/wp-content/uploads/2021/12/SoundPEATS-T2-Hybrid-Active-Noise-Cancelling-Wireless-Earbuds-1.jpg",
+        "date": "2024-08-01T10:15:00",
+        "description": "Compact and powerful wireless earbuds with noise cancellation and long battery life.",
+        "ratings": 4.5
+    },
+    {
+        "product_name": "4K Ultra HD TV",
+        "brand_name": "VisionMax",
+        "category_name": "Electronics",
+        "price": 799.99,
+        "image": "https://res.cloudinary.com/sharp-consumer-eu/image/fetch/w_1100,f_auto,q_auto/https://s3.infra.brandquad.io/accounts-media/SHRP/DAM/origin/e9601a9c-b16f-11ea-b758-26771c4dcb1c.jpg",
+        "date": "2024-08-02T11:00:00",
+        "description": "Experience cinema-quality visuals with this 55-inch 4K Ultra HD TV featuring HDR technology.",
+        "ratings": 4.7
+    },
+    {
+        "product_name": "Smart Watch Series 5",
+        "brand_name": "TechTime",
+        "category_name": "Wearables",
+        "price": 299.99,
+        "image": "https://i5.walmartimages.com/asr/a4fa59f7-a5e3-45cf-b5a6-4483c35414db.776551db2ec76c588bd189259b369f1e.jpeg",
+        "date": "2024-08-03T09:30:00",
+        "description": "Stay connected and track your fitness with the latest smartwatch featuring GPS and heart rate monitoring.",
+        "ratings": 4.4
+    },
+    {
+        "product_name": "Gaming Laptop Pro",
+        "brand_name": "PowerCore",
+        "category_name": "Computers",
+        "price": 1299.99,
+        "image": "https://computermania-bd.b-cdn.net/wp-content/uploads/LENOVO-7-4.jpg",
+        "date": "2024-08-04T14:45:00",
+        "description": "High-performance gaming laptop with NVIDIA RTX graphics, 16GB RAM, and 1TB SSD.",
+        "ratings": 4.8
+    },
+    {
+        "product_name": "Bluetooth Speaker",
+        "brand_name": "SoundWave",
+        "category_name": "Accessories",
+        "price": 89.99,
+        "image": "https://m.media-amazon.com/images/I/718yxonHN8L.jpg",
+        "date": "2024-08-05T12:00:00",
+        "description": "Portable Bluetooth speaker with deep bass, water-resistant design, and 12-hour battery life.",
+        "ratings": 4.6
+    },
+    {
+        "product_name": "Smartphone X",
+        "brand_name": "NextGen",
+        "category_name": "Mobile Phones",
+        "price": 999.99,
+        "image": "https://technostore.pt/wp-content/uploads/smartphone_x_series_1.jpeg",
+        "date": "2024-08-06T16:20:00",
+        "description": "Cutting-edge smartphone with a 6.7-inch OLED display, triple camera system, and 5G connectivity.",
+        "ratings": 4.9
+    },
+    {
+        "product_name": "Fitness Tracker",
+        "brand_name": "FitPro",
+        "category_name": "Wearables",
+        "price": 49.99,
+        "image": "https://m.media-amazon.com/images/I/61YwaovfYFL.jpg",
+        "date": "2024-08-07T08:40:00",
+        "description": "Track your daily activities, heart rate, and sleep patterns with this sleek fitness tracker.",
+        "ratings": 4.2
+    },
+    {
+        "product_name": "Electric Scooter",
+        "brand_name": "RideOn",
+        "category_name": "Transportation",
+        "price": 499.99,
+        "image": "https://i5.walmartimages.com/seo/Hyper-36V-Skute-Commute-12-Seated-Electric-Scooter-with-Basket-250W-Motor-13-Years-Max-Speed-15mph_3ec657a8-ae7a-4064-ac33-a2d7f960d809.de063fbeb6c6ee0aa46e700cbea69066.jpeg",
+        "date": "2024-08-08T15:10:00",
+        "description": "Eco-friendly electric scooter with a top speed of 20 mph and a range of 25 miles.",
+        "ratings": 4.3
+    },
+    {
+        "product_name": "Wireless Charging Pad",
+        "brand_name": "ChargeMate",
+        "category_name": "Audio",
+        "price": 29.99,
+        "image": "https://static-01.daraz.com.bd/p/bf38cb490c4df976ff69609ba5278b4a.jpg",
+        "date": "2024-08-09T13:35:00",
+        "description": "Fast and convenient wireless charging pad compatible with all Qi-enabled devices.",
+        "ratings": 4.1
+    },
+    {
+        "product_name": "Noise Cancelling Headphones",
+        "brand_name": "AudioZen",
+        "category_name": "Audio",
+        "price": 199.99,
+        "image": "https://i5.walmartimages.com/seo/VILINICE-Noise-Cancelling-Headphones-Wireless-Bluetooth-Over-Ear-Headphones-with-Microphone-Black-Q8_b994b99c-835f-42fc-8094-9f6be0f9273b.be59955399cdbd1c25011d4a4251ba9b.jpeg",
+        "date": "2024-08-10T10:05:00",
+        "description": "Experience immersive sound with these noise-cancelling headphones featuring 30-hour battery life.",
+        "ratings": 4.7
+    },
+    {
+        "product_name": "Smart Home Security Camera",
+        "brand_name": "SecureNest",
+        "category_name": "Home Security",
+        "price": 149.99,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIx9eYo9tP30UgifxEVkrmte0V2IEc-LR9Nw&s",
+        "date": "2024-08-11T14:50:00",
+        "description": "Keep your home safe with this HD smart security camera featuring night vision and motion detection.",
+        "ratings": 4.6
+    },
+    {
+        "product_name": "Electric Toothbrush",
+        "brand_name": "BrightSmile",
+        "category_name": "Personal Care",
+        "price": 79.99,
+        "image": "https://adminapi.applegadgetsbd.com/storage/media/large/ENCHEN-Aurora-T+-Sonic-Electric-Toothbrush-White-9125.jpg",
+        "date": "2024-08-12T11:15:00",
+        "description": "Achieve a cleaner smile with this advanced electric toothbrush with multiple brushing modes.",
+        "ratings": 4.5
+    },
+    {
+        "product_name": "Portable Power Bank",
+        "brand_name": "ChargeUp",
+        "category_name": "Accessories",
+        "price": 39.99,
+        "image": "https://i5.walmartimages.com/seo/Anker-Portable-Charger-20000mAh-Power-Bank-2-Port-Battery-Pack-PowerCore-Essential-20K-Black_cb420820-4ee3-4461-995a-1e3b314d8ac0.f57db20a0759803466634d4e1336f31c.jpeg",
+        "date": "2024-08-13T09:25:00",
+        "description": "Keep your devices charged on the go with this high-capacity portable power bank.",
+        "ratings": 4.3
+    },
+    {
+        "product_name": "Digital Air Fryer",
+        "brand_name": "CrispMaster",
+        "category_name": "Kitchen Appliances",
+        "price": 129.99,
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fevaly.com.bd%2Fproducts%2Fsilver-crest-extra-large-digital-led-touch-screen-air-fryer-6-liter-black-410333&psig=AOvVaw2iAMKX4PviUScIRFdP-yVC&ust=1723953909532000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjP-5_B_IcDFQAAAAAdAAAAABAE",
+        "date": "2024-08-14T16:30:00",
+        "description": "Enjoy healthy fried food with this digital air fryer featuring multiple cooking presets.",
+        "ratings": 4.6
+    },
+    {
+        "product_name": "Gaming Console Pro",
+        "brand_name": "GameStation",
+        "category_name": "Gaming",
+        "price": 499.99,
+        "image": "https://example.com/images/gaming_console_pro.jpg",
+        "date": "2024-08-15T13:45:00",
+        "description": "Next-gen gaming console with 4K support, high-speed SSD, and a vast library of games.",
+        "ratings": 4.9
+    },
+    {
+        "product_name": "Smart Thermostat",
+        "brand_name": "EcoTemp",
+        "category_name": "Smart Home",
+        "price": 199.99,
+        "image": "https://example.com/images/smart_thermostat.jpg",
+        "date": "2024-08-16T12:20:00",
+        "description": "Control your home's temperature remotely with this energy-efficient smart thermostat.",
+        "ratings": 4.4
+    },
+    {
+        "product_name": "Home Espresso Machine",
+        "brand_name": "BrewMaster",
+        "category_name": "Kitchen Appliances",
+        "price": 299.99,
+        "image": "https://example.com/images/home_espresso_machine.jpg",
+        "date": "2024-08-17T09:50:00",
+        "description": "Brew café-quality espresso at home with this powerful and easy-to-use espresso machine.",
+        "ratings": 4.7
+    },
+    {
+        "product_name": "Smart Door Lock",
+        "brand_name": "SecureHome",
+        "category_name": "Home Security",
+        "price": 149.99,
+        "image": "https://example.com/images/smart_door_lock.jpg",
+        "date": "2024-08-18T14:10:00",
+        "description": "Enhance your home security with this smart door lock featuring keyless entry and remote access.",
+        "ratings": 4.5
+    },
+    {
+        "product_name": "Electric Kettle",
+        "brand_name": "QuickBoil",
+        "category_name": "Kitchen Appliances",
+        "price": 49.99,
+        "image": "https://example.com/images/electric_kettle.jpg",
+        "date": "2024-08-19T10:00:00",
+        "description": "Boil water quickly and efficiently with this stainless steel electric kettle.",
+        "ratings": 4.3
+    },
+    {
+        "product_name": "Noise-Cancelling Earbuds",
+        "brand_name": "SilentSound",
+        "category_name": "Audio",
+        "price": 69.99,
+        "image": "https://m.media-amazon.com/images/I/31frsDwsdkL._SL500_.jpg",
+        "date": "2024-08-20T15:30:00",
+        "description": "Immerse yourself in music with these noise-cancelling earbuds featuring crystal-clear sound.",
+        "ratings": 4.4
+    },
+    {
+        "product_name": "Portable Bluetooth Keyboard",
+        "brand_name": "KeyEase",
+        "category_name": "Accessories",
+        "price": 39.99,
+        "image": "https://example.com/images/portable_bluetooth_keyboard.jpg",
+        "date": "2024-08-21T13:00:00",
+        "description": "Type comfortably on the go with this portable Bluetooth keyboard, compatible with multiple devices.",
+        "ratings": 4.2
+    },
+    {
+        "product_name": "Smartphone Gimbal",
+        "brand_name": "StabilizePro",
+        "category_name": "Photography",
+        "price": 99.99,
+        "image": "https://example.com/images/smartphone_gimbal.jpg",
+        "date": "2024-08-22T12:15:00",
+        "description": "Capture smooth and professional-looking videos with this 3-axis smartphone gimbal.",
+        "ratings": 4.5
+    },
+    {
+        "product_name": "Robot Vacuum Cleaner",
+        "brand_name": "CleanBot",
+        "category_name": "Home Appliances",
+        "price": 249.99,
+        "image": "https://example.com/images/robot_vacuum_cleaner.jpg",
+        "date": "2024-08-23T09:40:00",
+        "description": "Keep your floors spotless with this intelligent robot vacuum cleaner featuring app control.",
+        "ratings": 4.7
+    },
+    {
+        "product_name": "Wireless Mouse",
+        "brand_name": "ClickPro",
+        "category_name": "Accessories",
+        "price": 29.99,
+        "image": "https://example.com/images/wireless_mouse.jpg",
+        "date": "2024-08-24T11:20:00",
+        "description": "Navigate your computer with ease using this ergonomic wireless mouse with adjustable DPI.",
+        "ratings": 4.3
+    },
+    {
+        "product_name": "Portable Projector",
+        "brand_name": "BrightView",
+        "category_name": "Home Entertainment",
+        "price": 199.99,
+        "image": "https://example.com/images/portable_projector.jpg",
+        "date": "2024-08-25T14:50:00",
+        "description": "Enjoy big-screen entertainment anywhere with this compact and portable projector.",
+        "ratings": 4.5
+    },
+    {
+        "product_name": "Home Air Purifier",
+        "brand_name": "PureAir",
+        "category_name": "Home Appliances",
+        "price": 179.99,
+        "image": "https://example.com/images/home_air_purifier.jpg",
+        "date": "2024-08-26T13:30:00",
+        "description": "Breathe cleaner air with this advanced home air purifier featuring HEPA filtration.",
+        "ratings": 4.6
+    },
+    {
+        "product_name": "Smart Light Bulbs",
+        "brand_name": "LumiBright",
+        "category_name": "Smart Home",
+        "price": 49.99,
+        "image": "https://example.com/images/smart_light_bulbs.jpg",
+        "date": "2024-08-27T12:10:00",
+        "description": "Control your lighting with these smart light bulbs that can be adjusted remotely.",
+        "ratings": 4.4
+    },
+    {
+        "product_name": "Electric Grill",
+        "brand_name": "GrillMaster",
+        "category_name": "Kitchen Appliances",
+        "price": 99.99,
+        "image": "https://example.com/images/electric_grill.jpg",
+        "date": "2024-08-28T09:55:00",
+        "description": "Enjoy outdoor-style grilling indoors with this smokeless electric grill.",
+        "ratings": 4.3
+    },
+    {
+        "product_name": "Wireless Charging Stand",
+        "brand_name": "ChargeBase",
+        "category_name": "Accessories",
+        "price": 49.99,
+        "image": "https://example.com/images/wireless_charging_stand.jpg",
+        "date": "2024-08-29T11:45:00",
+        "description": "Charge multiple devices at once with this versatile wireless charging stand.",
+        "ratings": 4.4
+    },
+    {
+        "product_name": "Smart Mirror",
+        "brand_name": "ReflectTech",
+        "category_name": "Smart Home",
+        "price": 249.99,
+        "image": "https://example.com/images/smart_mirror.jpg",
+        "date": "2024-08-30T15:35:00",
+        "description": "Upgrade your bathroom with this smart mirror featuring a built-in display for weather, news, and more.",
+        "ratings": 4.6
+    },
+    {
+        "product_name": "Portable Hard Drive",
+        "brand_name": "DataSafe",
+        "category_name": "Computers",
+        "price": 89.99,
+        "image": "https://example.com/images/portable_hard_drive.jpg",
+        "date": "2024-08-31T10:10:00",
+        "description": "Store all your important files with this high-capacity portable hard drive.",
+        "ratings": 4.3
+    },
+    {
+        "product_name": "Cordless Drill",
+        "brand_name": "PowerTool",
+        "category_name": "Tools",
+        "price": 59.99,
+        "image": "https://example.com/images/cordless_drill.jpg",
+        "date": "2024-09-01T14:15:00",
+        "description": "Handle any DIY project with ease using this powerful and versatile cordless drill.",
+        "ratings": 4.5
+    },
+    {
+        "product_name": "Electric Bike",
+        "brand_name": "EcoRide",
+        "category_name": "Transportation",
+        "price": 1099.99,
+        "image": "https://example.com/images/electric_bike.jpg",
+        "date": "2024-09-02T12:30:00",
+        "description": "Commute in style with this electric bike featuring a powerful motor and long-lasting battery.",
+        "ratings": 4.8
+    },
+    {
+        "product_name": "Digital Photo Frame",
+        "brand_name": "Memories",
+        "category_name": "Home Decor",
+        "price": 79.99,
+        "image": "https://example.com/images/digital_photo_frame.jpg",
+        "date": "2024-09-03T09:20:00",
+        "description": "Display your favorite memories with this high-resolution digital photo frame.",
+        "ratings": 4.2
+    },
+    {
+        "product_name": "Smart Plug",
+        "brand_name": "PowerSmart",
+        "category_name": "Smart Home",
+        "price": 24.99,
+        "image": "https://example.com/images/smart_plug.jpg",
+        "date": "2024-09-04T11:00:00",
+        "description": "Control your appliances remotely with this easy-to-use smart plug.",
+        "ratings": 4.4
+    },
+    {
+        "product_name": "Wireless Router",
+        "brand_name": "NetSpeed",
+        "category_name": "Networking",
+        "price": 129.99,
+        "image": "https://example.com/images/wireless_router.jpg",
+        "date": "2024-09-05T10:45:00",
+        "description": "Boost your internet speed and coverage with this high-performance wireless router.",
+        "ratings": 4.5
+    },
+    {
+        "product_name": "Outdoor Security Light",
+        "brand_name": "BrightGuard",
+        "category_name": "Home Security",
+        "price": 69.99,
+        "image": "https://example.com/images/outdoor_security_light.jpg",
+        "date": "2024-09-06T13:25:00",
+        "description": "Illuminate your property with this motion-activated outdoor security light.",
+        "ratings": 4.6
+    },
+    {
+        "product_name": "Portable Air Conditioner",
+        "brand_name": "CoolBreeze",
+        "category_name": "Home Appliances",
+        "price": 349.99,
+        "image": "https://example.com/images/portable_air_conditioner.jpg",
+        "date": "2024-09-07T09:55:00",
+        "description": "Stay cool in any room with this powerful and portable air conditioner.",
+        "ratings": 4.3
+    }
+]
