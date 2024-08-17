@@ -1,10 +1,11 @@
 // import { Link } from "react-router-dom";
 
-const ItemCard = ({item}) => {
-    const{product_name, description, image, ratings, price,category_name}= item
+const ItemCard = ({allData}) => {
+    const{product_name, description, image, ratings, price,category_name}= allData
    
     return (
         <div>
+          
         
          <div className="card card-compact bg-base-100 w-80 h-96 shadow-xl">
   <figure>
