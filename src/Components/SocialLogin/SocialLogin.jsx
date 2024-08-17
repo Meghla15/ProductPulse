@@ -1,28 +1,22 @@
 import toast from 'react-hot-toast';
 import UseAuth from '../../Hooks/UseAuth.jsx';
 import { useLocation, useNavigate } from 'react-router-dom';
-import axios from 'axios';
+
 
 const SocialLogin = () => {
     const {googleLogin} = UseAuth();
-    const navigate = useNavigate()
+    const navigate = useNavigate();
     const location = useLocation();
-    const from = location?.state || '/';
+    const from = location?.state || "/";
 
-    const handleSocialLogin =async socialProvider =>{
+    const handleSocialLogin = socialProvider =>{
         socialProvider()
-        .then(async result =>{
-            const googleLoggedIn = result.user;
-            console.log(googleLoggedIn)
-              const {data} = await axios.post(`${import.meta.env.VITE_API_URL}/jwt`,{email : result ?.user?.email},{
-            withCredentials: true})
-            console.log(data)
-            navigate(from, {replace : true})
-            toast.success("Login Successfully") })
-            .catch(error =>{
-                console.log(error)
-                toast.error(error?.massage)
-            })                                                          
+        .then(result =>{
+           if(result.user){
+            navigate(from)
+            toast('Login Successfully')
+           }
+        })
     }
     return (
         <div>

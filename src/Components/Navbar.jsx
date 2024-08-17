@@ -1,10 +1,14 @@
 import { Link, NavLink } from "react-router-dom";
 import UseAuth from "../Hooks/UseAuth";
+import { useState } from "react";
 
 
 const Navbar = () => {
     const { logout, user } = UseAuth();
+      
   console.log(user)
+
+  
   
     return (
         <div className="navbar bg-indigo-900 px-4">
@@ -31,9 +35,7 @@ const Navbar = () => {
         
         <div className="navbar-end space-x-2">
         <div className="flex-none gap-2">
-    <div className="form-control">
-      <input type="text" placeholder="Search" className="input input-bordered w-24 md:w-auto" />
-    </div>
+       
         </div>
         {
           user?(<div className="dropdown dropdown-end">
