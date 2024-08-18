@@ -1,6 +1,9 @@
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import ItemCard from "./itemCard";
 import { useLoaderData } from "react-router-dom";
+import 'animate.css';
+import Aos from "aos";
+import 'aos/dist/aos.css'
 
 const PopularItem = () => {
     const initialData = useLoaderData();
@@ -9,7 +12,9 @@ const PopularItem = () => {
     const [page, setPage] = useState(1);
     const [totalPages, setTotalPages] = useState(1);
     const [loading, setLoading] = useState(false);
+     
 
+    
     const handleSearch = async (e) => {
         e.preventDefault();
         setLoading(true);
@@ -23,8 +28,6 @@ const PopularItem = () => {
             } else {
                 console.error("Search request failed:", response.statusText);
             }
-        } catch (error) {
-            console.error("Search error:", error);
         } finally {
             setLoading(false);
         }
@@ -38,27 +41,27 @@ const PopularItem = () => {
             const response = await fetch(`${import.meta.env.VITE_API_URL}/allData?page=${newPage}&limit=10`);
             if (response.ok) {
                 const data = await response.json();
-                console.log('Page Data:', data); 
+                // console.log( data); 
                 setSearchResults(data.items || []);
                 setTotalPages(data.totalPages || 1);
             } else {
-                console.error("Failed to fetch data:", response.statusText);
+                console.error( response.statusText);
             }
-        } catch (error) {
-            console.error("Fetch error:", error);
-        } finally {
+        }  finally {
             setLoading(false);
         }
     };
 
     useEffect(() => {
+        Aos.init();
         handlePageChange(page);
+        
     }, [page]);
 
     return (
         <div className="mt-4">
-            <h1 className="font-semibold text-center lg:text-3xl text-2xl mt-4">Our Popular Items</h1>
-            <h6 className="font-bold text-orange-600 text-center text-xl mt-1">On Sale</h6>
+            <h1 className="font-semibold text-center lg:text-3xl text-2xl mt-4 animate__animated animate__backInLeft">Our Popular Items</h1>
+            <h6 className="font-bold text-orange-600 text-center text-xl mt-1 animate__animated animate__backInLeft">On Sale</h6>
 
             <form className="flex item-center justify-center mt-2" onSubmit={handleSearch}>
                 <input 
@@ -149,7 +152,8 @@ const PopularItem = () => {
 
             {loading && <p className="text-center">Loading...</p>}
 
-            <div className="container mx-auto grid lg:grid-cols-4 md:grid-cols-2 grid-cols-1 lg:gap-3 md:gap-2 gap-2 lg:mt-10 mt-6 mb-16 px-4 lg:px-0 md:px-2">
+            <div className="container mx-auto grid lg:grid-cols-4 md:grid-cols-2 grid-cols-1 lg:gap-3 md:gap-2 gap-2 lg:mt-10 mt-6 mb-16 px-4 lg:px-0 md:px-2"  data-aos="fade-up"
+     data-aos-duration="3000">
             {searchResults.length > 0 ? (
     searchResults.map((item) => (
         <ItemCard key={item._id} allData={item} />

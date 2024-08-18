@@ -7,7 +7,7 @@ const ItemCard = ({allData}) => {
         <div>
           
         
-         <div className="card card-compact bg-base-100 w-80 h-96 shadow-xl">
+         <div className="card card-compact bg-base-100 w-80 h-96 shadow-xl" >
   <figure>
     <img
       src={image}
