@@ -30,8 +30,8 @@ const Login = () => {
 	}
     
     return (
-        <div className=''>
-            <div className=" border  mx-auto mt-6 mb-16 w-full max-w-md p-8 space-y-3 rounded-xl dark:bg-gray-50 dark:text-gray-800">
+        <div className=' '>
+            <div className=" border border-slate-600  mx-auto mt-6 mb-16 w-full max-w-md p-10 space-y-3 rounded-xl dark:bg-gray-50 dark:text-gray-800">
 	<h1 className="text-3xl font-bold font-sans text-center">Login</h1>
 	<form onSubmit={onSubmit}  noValidate="" action="" className="space-y-6">
 		<div className="space-y-1 text-sm">

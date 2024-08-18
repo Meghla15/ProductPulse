@@ -5,7 +5,13 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily : {
+        sans :'"Edu VIC WA NT Beginner", cursive',
+        
+        
+      },
+    },
   },
   plugins: [
     require('daisyui'),

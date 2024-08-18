@@ -1,6 +1,5 @@
 import { Link, NavLink } from "react-router-dom";
 import UseAuth from "../Hooks/UseAuth";
-import { useState } from "react";
 
 
 const Navbar = () => {
@@ -11,12 +10,12 @@ const Navbar = () => {
   
   
     return (
-        <div className="navbar bg-indigo-900 px-4">
+        <div className="navbar bg-indigo-950 px-4">
 
         <div className="navbar-start">
           
           <img className="w-[10%] h-[10%]" src="https://static.vecteezy.com/system/resources/previews/027/375/023/original/shopping-cart-flat-icon-in-circle-png.png" alt="" />
-         <p className="text-2xl font-sans font-bold text-white ml-1">ProductPulse</p>
+      <Link to='/'>   <p className="lg:text-3xl text-2xl font-sans font-bold text-white ml-1">ProductPulse</p></Link>
         </div>
         <div className="navbar-center hidden lg:flex">
           <ul className="menu menu-horizontal px-1">
