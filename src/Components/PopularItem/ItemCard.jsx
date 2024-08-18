@@ -1,4 +1,4 @@
-// import { Link } from "react-router-dom";
+
 
 const ItemCard = ({allData}) => {
     const{product_name, description, image, ratings, price,category_name}= allData
