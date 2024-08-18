@@ -4,7 +4,7 @@ import PopularItem from "../Components/PopularItem/PopularItem";
 
 const Home = () => {
     return (
-        <div className="bg-slate-200">
+        <div >
           <Banner></Banner>
           <PopularItem></PopularItem>
         </div>
