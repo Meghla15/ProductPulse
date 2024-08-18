@@ -79,16 +79,40 @@ const PopularItem = () => {
                         defaultValue=""
                     >
                         <option value="" disabled>Brand Name</option>
-                        <option value="Brand1"></option>
-                        <option value="Brand2"></option>
+                        <option value="Brand1">SoundPlus</option>
+                        <option value="Brand2">VisionMax</option>
+                        <option value="Brand2">TecTime</option>
+                        <option value="Brand2">PowerCore</option>
+                        <option value="Brand2">NextGen</option>
+                        <option value="Brand2">FitPro</option>
+                        <option value="Brand2">RideOn</option>
+                        <option value="Brand2">ChargeMate</option>
+                        <option value="Brand2">AudioZen</option>
+                        <option value="Brand2">SecureNest</option>
+                        <option value="Brand2">BrightSmile</option>
+                        <option value="Brand2">ChargeUp</option>
+                        <option value="Brand2">CrispMaster</option>
+                        <option value="Brand2">GameStation</option>
+                        <option value="Brand2">EcoTemp</option>
+                        <option value="Brand2">BrewMaster</option>
+                        <option value="Brand2">SecureHome</option>
                     </select>
                     <select 
                         className="select select-bordered w-full lg:w-1/3 lg:max-w-xs" 
                         defaultValue=""
                     >
                         <option value="" disabled>Category Name</option>
-                        <option value="Category1">Category1</option>
-                        <option value="Category2">Category2</option>
+                        <option value="Category1">Electronics</option>
+                        <option value="Category2">Wearable</option>
+                        <option value="Category2">Computers</option>
+                        <option value="Category2">Accessories</option>
+                        <option value="Category2">Mobile Phones</option>
+                        <option value="Category2">Wearable</option>
+                        <option value="Category2">Transportation</option>
+                        <option value="Category2">Audio</option>
+                        <option value="Category2">Home Security</option>
+                        <option value="Category2">Personal Care</option>
+                        <option value="Category2">Kitchen Appliances</option>
                     </select>
                     <select 
                         className="select select-bordered w-full lg:w-1/3 lg:max-w-xs" 
